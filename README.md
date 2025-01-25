@@ -1,2 +1,3 @@
 # 1st_missing_no.
 this is solved question.
+and 1st missing number where we find the no.
