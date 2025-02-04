@@ -2,4 +2,4 @@
 this is solved question.
 and 1st missing number where we find the number.
 and peogram is written in c++. & with full explanation and topic which is use to prepare the proram.
-this is used to
+this is used to find the value of number
